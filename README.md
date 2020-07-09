@@ -5,8 +5,8 @@ I'm a Digital Product Designer currently based in Tampa, Florida. I help build d
 [Check out my portfolio](https://ryanparag.com) , [learn more about me](https://ryanparag.com/about), or [read a few notes I've written](https://notes.ryanparag.com) about what I'm currently designing.
 
 ### Side Projects
-[Slack Themes](https://slack-themes.now.sh) - Slack themes for your workspace
-[Race Times](http://grapalab.com/f1-race-times/)  - Tracking the Formula 1 race times per your timezone
+[Slack Themes](https://slack-themes.now.sh) - Slack themes for your workspace  
+[Race Times](http://grapalab.com/f1-race-times/)  - Tracking the Formula 1 race times per your timezone  
 _Hatch (coming soon)_ - Randomize pairs for teams that pair program
 
 ### Learning
