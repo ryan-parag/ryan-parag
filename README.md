@@ -2,6 +2,8 @@
 
 I'm a Digital Product Designer currently based in Tampa, Florida. I help build digital products and solve tough problems — focusing on user research & testing, prototyping, visual design, front-end code, and product strategy. I'm currently working on simplifying the home remodeling experience and helping build connected, IoT experiences for homeowners at **Masonite**.
 
+<img src="https://ryanparag.com/static/df3dcb343fc0300cb35c1a39f24ea090/46604/portfolio-example-icon.png" alt="side projects" width="96"/>
+
 [Check out my portfolio](https://ryanparag.com) , [learn more about me](https://ryanparag.com/about), or [read a few notes I've written](https://notes.ryanparag.com) about what I'm currently designing.
 
 ### Side Projects
