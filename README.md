@@ -2,16 +2,16 @@
 
 I'm a Digital Product Designer currently based in Tampa, Florida. I help build digital products and solve tough problems — focusing on user research & testing, prototyping, visual design, front-end code, and product strategy. I'm currently working on simplifying the home remodeling experience and helping build connected, IoT experiences for homeowners at **Masonite**.
 
-[Check out my portfolio →](https://ryanparag.com)
+[Check out my portfolio →](https://ryanparag.com). 
 [Learn more about me →](https://ryanparag.com)
 
 ### Writing
-I started writing about desinging in the open and playing around with new things:
+I started writing about desinging in the open and playing around with new things:  
 [Check out my writing →](https://notes.ryanparag.com)
 
 ### Projects
-[Slack Themes](https://slack-themes.now.sh)
-[Race Times](http://grapalab.com/f1-race-times/)
+[Slack Themes](https://slack-themes.now.sh). 
+[Race Times](http://grapalab.com/f1-race-times/). 
 _Hatch (coming soon)_
 
 If you have a dope side project idea or want to trade project/portfolio feedback, I'd love to help out. If you want to chat about design, movies, or anything else, that’s fine too!
