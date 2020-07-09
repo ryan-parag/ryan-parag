@@ -9,7 +9,7 @@ I'm a Digital Product Designer currently based in Tampa, Florida. I help build d
 I started writing about desinging in the open and playing around with new things:  
 [Check out my writing](https://notes.ryanparag.com)
 
-### Projects
+### Side Projects
 [Slack Themes](https://slack-themes.now.sh)  
 [Race Times](http://grapalab.com/f1-race-times/)  
 _Hatch (coming soon)_
