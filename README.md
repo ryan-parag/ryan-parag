@@ -1,4 +1,4 @@
-## Hello, I'm Ryan.✌🏼
+## Hello, I'm Ryan. 👋
 
 I'm a Digital Product Designer currently based in Tampa, Florida. I help build digital products and solve tough problems — focusing on user research & testing, prototyping, visual design, front-end code, and product strategy. I'm currently working on simplifying the home remodeling experience and helping build connected, IoT experiences for homeowners at **Masonite**.
 
